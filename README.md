@@ -36,14 +36,15 @@ Here are a few of the projects you'll find in this repository:
 - **Tools**: Google Analytics, Tableau, Power BI, Jupyter Notebook, MS Excel
 - **Soft Skills**: Adaptive Learning, Effective Communication, Problem Solving, Visual Thinking
 
-## Certifications
+<!--## Certifications
 
 - **Analyzing Spotify and YouTube Songs Using Python & MySQL**: [Certificate Link](link-to-certificate)
 - **IBM Data Science 101**: [Certificate Link](link-to-certificate)
+-->
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](link-to-LinkedIn) or check out my other projects on [GitHub](link-to-GitHub).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/deepali-josh/) or check out my other projects on [GitHub](https://github.com/DeepaliJosh).
 
 Thank you for visiting, and I hope you find my work interesting and insightful. If you have any questions or would like to collaborate on a project, please don't hesitate to reach out.
 
