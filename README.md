@@ -26,8 +26,9 @@ As a passionate Data Scientist, I'm continually exploring and learning new techn
 
 Here are a few of the projects you'll find in this repository:
 
+
+- **[Revenue Classification from Online Shopper's Intentions](https://github.com/DeepaliJosh/Revenue-Classification-from-Online-Shopper-s-Intentions)**
 - **[Project 1](link-to-project-1)**: Description of project 1.
-- **[Project 2](link-to-project-2)**: Description of project 2.
 - **[Car Sales Prediction Utilizing Multiple Regression Models](https://github.com/DeepaliJosh/Car-Sales-Prediction-Utilizing-Multiple-Regression-Models)**
 ## Skills
 
