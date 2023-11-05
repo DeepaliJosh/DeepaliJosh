@@ -28,7 +28,7 @@ Here are a few of the projects you'll find in this repository:
 
 - **[Project 1](link-to-project-1)**: Description of project 1.
 - **[Project 2](link-to-project-2)**: Description of project 2.
-- **[Car Sales Prediction Utilizing Multiple Regression Models]([link-to-project-3](https://github.com/DeepaliJosh/Car-Sales-Prediction-Utilizing-Multiple-Regression-Models))**: Description of project 3.
+- **[Car Sales Prediction Utilizing Multiple Regression Models]([(https://github.com/DeepaliJosh/Car-Sales-Prediction-Utilizing-Multiple-Regression-Models)])**: Description of project 3.
 
 ## Skills
 
