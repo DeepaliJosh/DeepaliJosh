@@ -28,7 +28,7 @@ Here are a few of the projects you'll find in this repository:
 
 
 - **[Revenue Classification from Online Shopper's Intentions](https://github.com/DeepaliJosh/Revenue-Classification-from-Online-Shopper-s-Intentions)**
-- **[Comparative Analysis of Deep Learning Models for Indian Sign Languga](https://github.com/DeepaliJosh/Indian-Sign-Language-Image-Classification)**
+- **[Comparative Analysis of Deep Learning Models for Indian Sign Language Image Classification](https://github.com/DeepaliJosh/Indian-Sign-Language-Image-Classification)**
 - **[Car Sales Prediction Utilizing Multiple Regression Models](https://github.com/DeepaliJosh/Car-Sales-Prediction-Utilizing-Multiple-Regression-Models)**
 ## Skills
 
